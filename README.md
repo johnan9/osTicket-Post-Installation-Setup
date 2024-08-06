@@ -25,6 +25,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+https://i.imgur.com/fcg88Xb.png
+https://i.imgur.com/0QR8TiK.png
+https://i.imgur.com/U7tQmuB.png
+https://i.imgur.com/Bjlpjoh.png
+https://i.imgur.com/kQDZ5Ke.png
+https://i.imgur.com/5JQvKeP.png
+
+
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
