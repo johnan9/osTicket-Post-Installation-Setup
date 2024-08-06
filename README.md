@@ -20,8 +20,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create a new role <b>Supreme Admin</b> with all permissions
 - Create a new department <b>System Administrators</b>
 - Create a new team <b>Level II Support</b>
-- Item 4
-- Item 5
+- Allow anyone to create tickets
+- Create new agents <b>Jane Doe</b> and <b>John Doe</b>
+- Configure new SLA plans <b>SEV-A</b>, <b>SEV-B</b>, and <b>SEV-C</b>
+- Add new Help Topics <b>Business Critcal Outage</b>, <b>Personal Computer Issues</b>, <b>Equipment Request</b>, and <b>Password Reset</b>
 
 <h2>Configuration Steps</h2>
 
